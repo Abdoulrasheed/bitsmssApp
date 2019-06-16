@@ -1,0 +1,3 @@
+rootProject.name = 'bitsmss'
+
+include ':app'
